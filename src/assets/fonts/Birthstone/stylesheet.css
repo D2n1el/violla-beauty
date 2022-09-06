@@ -1,0 +1,13 @@
+/* birthstone-regular - latin */
+@font-face {
+    font-family: 'Birthstone';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./birthstone-v10-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('./birthstone-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./birthstone-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./birthstone-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('./birthstone-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./birthstone-v10-latin-regular.svg#Birthstone') format('svg'); /* Legacy iOS */
+}

@@ -1,0 +1,475 @@
+[
+  {
+    "title": "Nagelförlängning",
+    "items": [
+      {
+        "title": "Nails",
+        "description": "Jelly + Gel polish – New – Simple",
+        "time": "80 minutes",
+        "price": 799
+      },
+      {
+        "title": "Nails",
+        "description": "Jelly + Gel polish – New – Design",
+        "time": "90 minutes",
+        "price": 899
+      },
+      {
+        "title": "Nails",
+        "description": "Jelly + Gel Polish – Revisit – Simple",
+        "time": "60 minutes",
+        "price": 499
+      },
+      {
+        "title": "Nails",
+        "description": "Jelly + Gel Polish – Revisit – Design",
+        "time": "80 minutes",
+        "price": 599
+      },
+      {
+        "title": "Nails",
+        "description": "Jelly + Gel Polish - Removal/New - Simple",
+        "time": "90 minutes",
+        "price": 899
+      },
+      {
+        "title": "Nails",
+        "description": "Jelly + Gel polish – Removal/New – Design",
+        "time": "110 minutes",
+        "price": 799
+      }
+    ]
+  },
+  {
+    "title": "Pedicure",
+    "items": [
+      {
+        "title": "Pedicure without nail polish",
+        "time": "60 minutes",
+        "price": 699
+      },
+      {
+        "title": "Pedicure with Shellac",
+        "time": "120 minutes",
+        "price": 999
+      },
+      {
+        "title": "SPA Pedicure without nail polish",
+        "time": "90 minutes",
+        "price": 799
+      },
+      {
+        "title": "SPA Pedicure with Shellac",
+        "time": "150 minutes",
+        "price": 1199
+      }
+    ]
+  },
+  {
+    "title": "Manicure",
+    "items": [
+      {
+        "title": "Nails",
+        "description": "Classic Manicure - New",
+        "time": "60 minutes",
+        "price": 499
+      },
+      {
+        "title": "Nails",
+        "description": "Classic Manicure - Remove/New - with Gel Polish",
+        "time": "120 minutes",
+        "price": 699
+      },
+      {
+        "title": "Nails",
+        "description": "Classic Manicure - Remove/New - without Gel Polish",
+        "time": "90 minutes",
+        "price": 599
+      },
+      {
+        "title": "Nails",
+        "description": "Removal",
+        "time": "30 minutes",
+        "price": 199
+      },
+      {
+        "title": "Nails",
+        "description": "New tip",
+        "time": "30 minutes",
+        "price": 99
+      },
+      {
+        "title": "Design 1 nail",
+        "time": "15 minutes",
+        "price": 99
+      },
+      {
+        "title": "Paraffin bath",
+        "time": "30 minutes",
+        "price": 299
+      }
+    ]
+  },
+  {
+    "title": {
+      "title": "Haircut",
+      "description": "A haircut at Violla beauty salon takes about an hour. Washing, blow-drying and styling are always included when you book this treatment. "
+    },
+    "items": [
+      {
+        "title": "WOMEN'S HAIRCUT",
+        "time": "45 minutes",
+        "price": 599
+      },
+      {
+        "title": "LADY PENSIONER",
+        "time": "30 minutes (incl. wash) Monday-Friday at 10.00-14.30",
+        "price": "from 299"
+      },
+      {
+        "title": "CHILDREN BOYS",
+        "time": "up to 11 years - 30 minutes",
+        "price": 299
+      },
+      {
+        "title": "MEN'S HAIRCUT",
+        "time": "30 minutes",
+        "price": 399
+      },
+      {
+        "title": "YOUTH GIRLS FROM",
+        "time": "up to 15 years - 20 minutes",
+        "price": 399
+      },
+      {
+        "title": "YOUTH BOYS FROM",
+        "time": "up to 15 years - 20 minutes",
+        "price": 349
+      },
+      {
+        "title": "MEN'S PENSIONER",
+        "time": "20 minutes (incl. laundry) Monday-Friday at 10.00-14.30",
+        "price": 199
+      },
+      {
+        "title": "CHILDREN GIRLS",
+        "time": "20 minutes",
+        "price": "from 249"
+      }
+    ]
+  },
+  {
+    "title": "BARBER",
+    "items": [
+      {
+        "title": "FADE CUTTING (SKIN FADE)",
+        "time": "45 minutes",
+        "price": "from 499"
+      },
+      {
+        "title": "MEN'S HAIRCUT",
+        "time": "30 minutes",
+        "price": "from 499"
+      },
+      {
+        "title": "MACHINE CUTTING",
+        "time": "15 minutes",
+        "price": "from 199"
+      },
+      {
+        "title": "SKIN FADE-MEN'S CUTTING and BEARD TRIMMING ",
+        "time": "60 minutes",
+        "price": "from 599"
+      },
+      {
+        "title": "BEARD TRIM",
+        "time": "30 minutes",
+        "price": "from 299"
+      }
+    ]
+  },
+  {
+    "title": "COLORING",
+    "items": [
+      {
+        "title": "WASHING + DRYER / FLAT",
+        "time": "30 minutes",
+        "price": "from 349"
+      },
+      {
+        "title": "COLOR",
+        "time": "Bottom color color including haircut",
+        "price": "from 1199"
+      },
+      {
+        "title": "SLINGS",
+        "time": "Sling short hair including haircut",
+        "price": "from 1399"
+      },
+      {
+        "title": "SLINGS",
+        "time": "Long hair including haircut",
+        "price": "from 1999"
+      },
+      {
+        "title": "AIRTOUCH/BALAYAGE coloring",
+        "price": "from 699",
+        "pricePer": "timme"
+      },
+      {
+        "title": "HAIR CARE",
+        "time": "75 minutes - Olaplex intensive course independent treatment including cutting",
+        "price": "from 799"
+      }
+    ]
+  },
+  {
+    "title": {
+      "title": "Makeup"
+    }
+  },
+  {
+    "title": "Permanent makeup",
+    "items": [
+      {
+        "title": "Microblading",
+        "time": "180 minutes",
+        "price": "from 2699"
+      },
+      {
+        "title": "Powder brows",
+        "time": "180 minutes",
+        "price": "from 2699"
+      },
+      {
+        "title": "Combo brows",
+        "time": "180 minutes",
+        "price": "from 2699"
+      },
+      {
+        "title": "PHICONTOUR (LIP PIGMENTATION)",
+        "time": "150 minutes",
+        "price": "from 2499"
+      },
+      {
+        "title": "PHICONTOUR (EYELINER)",
+        "time": "120 minutes",
+        "price": "2199"
+      },
+      {
+        "title": "PHICONTOUR (LASHLINER)",
+        "time": "90 minutes",
+        "price": "1899"
+      }
+    ]
+  },
+  {
+    "title": "Makeup",
+    "items": [
+      {
+        "title": "Bridal make-up incl. test make-up",
+        "price": "from 1999"
+      },
+      {
+        "title": "Bridesmaid makeup, excl. test makeup",
+        "price": "from 899"
+      },
+      {
+        "title": "Party/Ball makeup excl. test makeup",
+        "price": "from 799"
+      },
+      {
+        "title": "Daily/Natural makeup",
+        "price": "from 599"
+      },
+      {
+        "title": "Grooming",
+        "price": "from 299"
+      }
+    ]
+  },
+  {
+    "title": "Sugar waxing (shugaring)",
+    "items": [
+      {
+        "title": "Face 1 area",
+        "time": "30 minutes",
+        "price": 300
+      },
+      {
+        "title": "Armpits",
+        "time": "15 minutes",
+        "price": 200
+      },
+      {
+        "title": "Arms",
+        "time": "30 minutes",
+        "price": 400
+      },
+      {
+        "title": "Bikini line (panty line)",
+        "time": "15 minutes",
+        "price": 300
+      },
+      {
+        "title": "Deep Bikini (Brazilian)",
+        "time": "30 minutes",
+        "price": 500
+      },
+      {
+        "title": "Half leg",
+        "time": "30 minutes",
+        "price": 450
+      },
+      {
+        "title": "Whole leg",
+        "time": "45 minutes",
+        "price": 700
+      },
+      {
+        "title": "Back",
+        "time": "30 minutes",
+        "price": 400
+      },
+      {
+        "title": "Breast+stomach",
+        "time": "30 minutes",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "title": "Botox",
+    "items": [
+      {
+        "title": "BOTOX",
+        "price": "1850 - 2450"
+      },
+      {
+        "title": "FILLER",
+        "price": 2450
+      }
+    ]
+  },
+  {
+    "title": "Lashes and brows",
+    "items": [
+      {
+        "title": "BROW COLORING",
+        "time": "20 minutes",
+        "price": 199
+      },
+      {
+        "title": "BR0WS & LASHES COLORING",
+        "time": "30 minutes",
+        "price": 349
+      },
+      {
+        "title": "LASHES COLORING ",
+        "time": "20 minutes",
+        "price": 229
+      }
+    ]
+  },
+  {
+    "title": "Eyelash extension",
+    "items": [
+      {
+        "title": "New Single",
+        "price": "from 699"
+      },
+      {
+        "title": "New Mix Lashes",
+        "price": "from 799"
+      },
+      {
+        "title": "New volume",
+        "price": "from 999"
+      },
+      {
+        "title": "Refill single",
+        "price": 499
+      },
+      {
+        "title": "Refill mix",
+        "price": 699
+      },
+      {
+        "title": "Refill volume",
+        "price": 399
+      },
+      {
+        "title": "Quick fix single/mix/volume",
+        "price": "399/499/299"
+      },
+      {
+        "title": "Lash lift",
+        "price": 699
+      },
+      {
+        "title": "Brow lift",
+        "price": 799
+      }
+    ]
+  },
+  {
+    "title": "Massage",
+    "items": [
+      {
+        "title": "Sports massage",
+        "time": "50 minutes",
+        "price": 750
+      },
+      {
+        "title": "Full body",
+        "time": "55 minutes",
+        "price": 750
+      },
+      {
+        "title": "Full body",
+        "time": "90 minutes",
+        "price": 1050
+      },
+      {
+        "title": "Chocolate massage",
+        "time": "80 minutes",
+        "price": 1100
+      },
+      {
+        "title": "Hot stone massage",
+        "time": "50 minutes",
+        "price": 800
+      },
+      {
+        "title": "Hot stone massage",
+        "time": "80 minutes",
+        "price": 1050
+      },
+      {
+        "title": "Aromamassage",
+        "time": "50 minutes",
+        "price": 750
+      },
+      {
+        "title": "Aromamassage",
+        "time": "80 minutes",
+        "price": 1050
+      },
+      {
+        "title": "Relaxing massage",
+        "time": "50 minutes",
+        "price": 750
+      },
+      {
+        "title": "Relaxing massage",
+        "time": "80 minutes",
+        "price": 1050
+      },
+      {
+        "title": "Kobido facial massage",
+        "time": "80 minutes",
+        "price": 800
+      }
+    ]
+  }
+]

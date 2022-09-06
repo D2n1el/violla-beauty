@@ -1,0 +1,35 @@
+head:
+  title: "Violla beauty"
+  description: ""
+  keywords: ""
+
+header:
+  menu:
+    violla-beauty: "Violla beauty"
+    price-list: "Behandligar/Prislista"
+    portfolio: "Portfolio"
+    team: "Vårt Team"
+    make-an-appointment: "Boka Tid"
+sections:
+  main:
+    title: "Violla beauty"
+    title-caption: "Beauty salong"
+    text: "För dig som vill spendera din tid med nöje, skönhetssalong Violla beauty  i Stockholm.  Vi väljer ett individuellt förhållningssätt till kunderna och för arbetet till perfektion.  Tillsammans med dig bestämmer vi vad som är rätt för dig.  Vi lyssnar och värdesätter din tid."
+    button: "Våra tjänster"
+  price-list:
+    title: "Behandlingar/Prislista"
+  team:
+    title: "Vårt Team"
+    caption: "Beauty saloon"
+    text: " Vårt mål är att tillfredsställa kunden med resultatet, och för detta kommer vårt team att hjälpa till.  Certifierade proffs med många års erfarenhet och ständig professionell utveckling. Vår salong och vårt team hänger alltid med i tiden vi håller oss alltid uppdaterade inom de senaste trenderna."
+    employees:
+      - name: "Jessica"
+        position: "Cert. Nagel - & Spaterapeut"
+        caption: "And we help app developers, publishers and advertisers to hit their ROI targets quickly and efficiently. "
+      - name: "Jessica"
+        position: "Cert. Nagel - & Spaterapeut"
+        caption: "And we help app developers, publishers and advertisers to hit their ROI targets quickly and efficiently. "
+  contacts:
+    title: "Contacts"
+    caption: "Beauty saloon"
+    address: "Page Loft, 1228 Diamond Street,San Francisco"

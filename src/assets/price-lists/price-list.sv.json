@@ -1,0 +1,475 @@
+[
+  {
+    "title": "Nagelförlängning",
+    "items": [
+      {
+        "title": "Naglar",
+        "description": "Gelé + Gellack – Nyset – Enkel",
+        "time": "80 minuter",
+        "price": 799
+      },
+      {
+        "title": "Naglar",
+        "description": "Gelé + Gellack – Nyset – Design",
+        "time": "90 minuter",
+        "price": 899
+      },
+      {
+        "title": "Naglar",
+        "description": "Gelé + Gellack – Återbesök – Enkel",
+        "time": "60 minuter",
+        "price": 499
+      },
+      {
+        "title": "Naglar",
+        "description": "Gelé + Gellack – Återbesök – Design",
+        "time": "80 minuter",
+        "price": 599
+      },
+      {
+        "title": "Naglar",
+        "description": "Gelé + Gellack – Bortag/Nyset – Enkel",
+        "time": "90 minuter",
+        "price": 899
+      },
+      {
+        "title": "Naglar",
+        "description": "Gelé + Gellack – Bortag/Nyset – Design",
+        "time": "110 minuter",
+        "price": 799
+      }
+    ]
+  },
+  {
+    "title": "Pedikyr",
+    "items": [
+      {
+        "title": "Pedikyr utan lack",
+        "time": "60 minuter",
+        "price": 699
+      },
+      {
+        "title": "Pedikyr med Shelack",
+        "time": "120 minuter",
+        "price": 999
+      },
+      {
+        "title": "SPA Pedikyr utan lack",
+        "time": "90 minuter",
+        "price": 799
+      },
+      {
+        "title": "SPA Pedikyr med Shelack",
+        "time": "150 minuter",
+        "price": 1199
+      }
+    ]
+  },
+  {
+    "title": "Manikyr",
+    "items": [
+      {
+        "title": "Naglar",
+        "description": "Klassisk Manikyr – Nytt",
+        "time": "60 minuter",
+        "price": 499
+      },
+      {
+        "title": "Naglar",
+        "description": "Klassisk Manikyr – Borttag/Nytt – med Gellack",
+        "time": "120 minuter",
+        "price": 699
+      },
+      {
+        "title": "Naglar",
+        "description": "Klassisk Manikyr – Borttag/Nytt – utan Gellack",
+        "time": "90 minuter",
+        "price": 599
+      },
+      {
+        "title": "Naglar",
+        "description": "Borttagning",
+        "time": "30 minuter",
+        "price": 199
+      },
+      {
+        "title": "Naglar",
+        "description": "Ny tipp",
+        "time": "30 minuter",
+        "price": 99
+      },
+      {
+        "title": "Design 1 nagel",
+        "time": "15 minuter",
+        "price": 99
+      },
+      {
+        "title": "Parafinbad",
+        "time": "30 minuter",
+        "price": 299
+      }
+    ]
+  },
+  {
+    "title": {
+      "title": "Klipping",
+      "description": "En klippning hos Violla beauty salong tar ungefär en timme. Tvätt, föning och styling ingår alltid när du bokar den här behandlingen. "
+    },
+    "items": [
+      {
+        "title": "DAMKLIPPNING",
+        "time": "45 minuter",
+        "price": 599
+      },
+      {
+        "title": "DAM PENSIONÄR",
+        "time": "30 minuter (inkl. tvätt) Måndag_Fredag kl 10.00_14.30",
+        "price": "Från 299"
+      },
+      {
+        "title": "BARN POJKAR",
+        "time": "upp till 11 år - 30 minuter",
+        "price": 299
+      },
+      {
+        "title": "HERRKLIPPNING",
+        "time": "30 minuter",
+        "price": 399
+      },
+      {
+        "title": "UNGDOM FLICKOR FRÅN",
+        "time": "upp till 15 år - 20 minuter",
+        "price": 399
+      },
+      {
+        "title": "UNGDOM POJKAR FRÅN",
+        "time": "upp till 15 år - 20 minuter",
+        "price": 349
+      },
+      {
+        "title": "HERR PENSIONÄR",
+        "time": "20 minuter (inkl. tvätt) Måndag_Fredag kl 10.00_14.30",
+        "price": 199
+      },
+      {
+        "title": "BARN TJEJ",
+        "time": "20 minuter",
+        "price": "från 249"
+      }
+    ]
+  },
+  {
+    "title": "BARBERARE",
+    "items": [
+      {
+        "title": "FADE KLIPPNING (SKINFADE)",
+        "time": "45 minuter",
+        "price": "från 499"
+      },
+      {
+        "title": "HERRKLIPPNING",
+        "time": "30 minuter",
+        "price": "från 499"
+      },
+      {
+        "title": "MASKIN KLIPPNING",
+        "time": "15 minuter",
+        "price": "från 199"
+      },
+      {
+        "title": "SKINFADE-HERR KLIPPNING & SKÄGG TRIMNING ",
+        "time": "60 minuter",
+        "price": "från 599"
+      },
+      {
+        "title": "SKÄGGTRIMNING",
+        "time": "30 minuter",
+        "price": "från 299"
+      }
+    ]
+  },
+  {
+    "title": "FÄRG",
+    "items": [
+      {
+        "title": "TVÄTT + FÖN / PLATT",
+        "time": "30 minuter",
+        "price": "från 349"
+      },
+      {
+        "title": "FÄRG",
+        "time": "Bottenfärg färg ink klipp",
+        "price": "från 1199"
+      },
+      {
+        "title": "SLINGOR",
+        "time": "Slingor kort hår ink klipp",
+        "price": "från 1399"
+      },
+      {
+        "title": "SLINGOR",
+        "time": "långt hår inkl klipp",
+        "price": "från 1999"
+      },
+      {
+        "title": "AIRTOUCH/BALAYAGE färgning",
+        "price": "från 699",
+        "pricePer": "timme"
+      },
+      {
+        "title": "HÅRVÅRD",
+        "time": "75 minuter - Olaplex intensivkurs fristående behandling inkl. klipp",
+        "price": "från 799"
+      }
+    ]
+  },
+  {
+    "title": {
+      "title": "Makeup"
+    }
+  },
+  {
+    "title": "Permanent makeup",
+    "items": [
+      {
+        "title": "Microblading",
+        "time": "180 minuter",
+        "price": "från 2699"
+      },
+      {
+        "title": "Powderbryn",
+        "time": "180 minuter",
+        "price": "från 2699"
+      },
+      {
+        "title": "Kombobryn",
+        "time": "180 minuter",
+        "price": "från 2699"
+      },
+      {
+        "title": "PHICONTOUR (LÄPP PIGMENTERING)",
+        "time": "150 minuter",
+        "price": "från 2499"
+      },
+      {
+        "title": "PHICONTOUR (EYELINER)",
+        "time": "120 minuter",
+        "price": "2199"
+      },
+      {
+        "title": "PHICONTOUR (LASHLINER)",
+        "time": "90 minuter",
+        "price": "1899"
+      }
+    ]
+  },
+  {
+    "title": "Makeup",
+    "items": [
+      {
+        "title": "Brudmakeup inkl.provmakeup",
+        "price": "från 1999"
+      },
+      {
+        "title": "Tärna makeup exkl. provmakeup",
+        "price": "från 899"
+      },
+      {
+        "title": "Fest/Bal makeup excl. Provmakeup",
+        "price": "från 799"
+      },
+      {
+        "title": "Dag/Naturlig makeup",
+        "price": "från 599"
+      },
+      {
+        "title": "Brudgum/grooming",
+        "price": "från 299"
+      }
+    ]
+  },
+  {
+    "title": "Sockervaxning (shugaring)",
+    "items": [
+      {
+        "title": "Ansikte 1 område",
+        "time": "30 minuter",
+        "price": 300
+      },
+      {
+        "title": "Armhålor",
+        "time": "15 minuter",
+        "price": 200
+      },
+      {
+        "title": "Armar",
+        "time": "30 minuter",
+        "price": 400
+      },
+      {
+        "title": "Bikinilinjen (troskanten)",
+        "time": "15 minuter",
+        "price": 300
+      },
+      {
+        "title": "Djup bikini (brasiliansk)",
+        "time": "30 minuter",
+        "price": 500
+      },
+      {
+        "title": "Halva ben",
+        "time": "30 minuter",
+        "price": 450
+      },
+      {
+        "title": "Hela ben",
+        "time": "45 minuter",
+        "price": 700
+      },
+      {
+        "title": "Rygg",
+        "time": "30 minuter",
+        "price": 400
+      },
+      {
+        "title": "Bröst+mage",
+        "time": "30 minuter",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "title": "Boto",
+    "items": [
+      {
+        "title": "BOTOX",
+        "price": "1850 - 2450"
+      },
+      {
+        "title": "FILLER",
+        "price": 2450
+      }
+    ]
+  },
+  {
+    "title": "Fransar och bryn",
+    "items": [
+      {
+        "title": "BRYN FÄRGNING",
+        "time": "20 minuter",
+        "price": 199
+      },
+      {
+        "title": "BRYN & FRANS FÄRGNING ",
+        "time": "30 minuter",
+        "price": 349
+      },
+      {
+        "title": "FRANS FÄRGNING ",
+        "time": "20 minuter",
+        "price": 229
+      }
+    ]
+  },
+  {
+    "title": "Fransförlängning",
+    "items": [
+      {
+        "title": "Nyset Singel",
+        "price": "från 699"
+      },
+      {
+        "title": "Nyset Mix fransar",
+        "price": "från 799"
+      },
+      {
+        "title": "Nyset volym",
+        "price": "från 999"
+      },
+      {
+        "title": "Påfyllning singel",
+        "price": 499
+      },
+      {
+        "title": "Påfyllning mix",
+        "price": 699
+      },
+      {
+        "title": "Påfyllning volym",
+        "price": 399
+      },
+      {
+        "title": "Snabbfix singel/mix/volym",
+        "price": "399/499/299"
+      },
+      {
+        "title": "Lashlift",
+        "price": 699
+      },
+      {
+        "title": "Browlift",
+        "price": 799
+      }
+    ]
+  },
+  {
+    "title": "Massage",
+    "items": [
+      {
+        "title": "Idrottsmassage",
+        "time": "50 minuter",
+        "price": 750
+      },
+      {
+        "title": "Helkropp",
+        "time": "55 minuter",
+        "price": 750
+      },
+      {
+        "title": "Helkropp",
+        "time": "90 minuter",
+        "price": 1050
+      },
+      {
+        "title": "Chokladmassage",
+        "time": "80 minuter",
+        "price": 1100
+      },
+      {
+        "title": "Hot stone massage",
+        "time": "50 minuter",
+        "price": 800
+      },
+      {
+        "title": "Hot stone massage",
+        "time": "80 minuter",
+        "price": 1050
+      },
+      {
+        "title": "Aromamassage",
+        "time": "50 minuter",
+        "price": 750
+      },
+      {
+        "title": "Aromamassage",
+        "time": "80 minuter",
+        "price": 1050
+      },
+      {
+        "title": "Avslappnande massage",
+        "time": "50 minuter",
+        "price": 750
+      },
+      {
+        "title": "Avslappnande massage",
+        "time": "80 minuter",
+        "price": 1050
+      },
+      {
+        "title": "Kobido ansiktsmassage",
+        "time": "80 minuter",
+        "price": 800
+      }
+    ]
+  }
+]

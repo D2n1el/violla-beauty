@@ -1,0 +1,9 @@
+@import "bg-bronze";
+
+%text-bronze {
+  @extend %bg-bronze;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
