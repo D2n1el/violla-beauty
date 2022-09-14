@@ -1,0 +1,7 @@
+{
+	"cleanUrls": true,
+	"buildCommand": "pnpm run build",
+	"devCommand": "pnpm run dev",
+	"framework": "vite",
+	"installCommand": "pnpm install"
+}
